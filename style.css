@@ -29,3 +29,8 @@ a.hover{
   display: block;
   margin-top: 30px
 }
+.blue{
+  color:blue;
+  display:inline;
+  font-size:30px;
+  }
