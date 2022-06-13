@@ -27,10 +27,10 @@ a.hover{
 }
 .container{
   display: block;
-  margin-top: 30px
+  margin-top: 30px;
 }
 .blue{
-  color:blue;
-  display:inline;
-  font-size:30px;
+  color: blue;
+  display: inline;
+  font-size: 30px;
   }
